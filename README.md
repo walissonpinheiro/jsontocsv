@@ -1,6 +1,6 @@
-# Json converter to CSV (jsontocsv)
+# Json to CSV Converter (jsontocsv)
 
-Json converter to CSV
+Json to CSV Converter
 
 ## Install the dependencies
 ```bash
